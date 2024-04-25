@@ -101,3 +101,8 @@ body {
     height: 100%; /* Use 100% height for responsiveness */
     max-height: 675px;
 }
+
+.iconImage {
+    width: 66px;
+    height: 66px;
+}
